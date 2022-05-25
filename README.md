@@ -1,10 +1,6 @@
 # relógio-Digital
 
-
-## Calculadora IMC
-
 -  Projeto Relógio Digital
-
 
 ## Objetivo
 
